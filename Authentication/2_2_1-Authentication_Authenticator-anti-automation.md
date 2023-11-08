@@ -12,8 +12,8 @@ Verify that anti-automation controls are effective at mitigating breached creden
 
 **Story**:
 As a Security Engineer\
-I want to implement anti-automation controls,
-so that my system is protected against successful authentication attacks.
+I want to implement anti-automation controls\
+So that my system is protected against successful authentication attacks.
 
 ## Scenario
 
@@ -63,4 +63,4 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/521.html>
+<https://cwe.mitre.org/data/definitions/521.html>

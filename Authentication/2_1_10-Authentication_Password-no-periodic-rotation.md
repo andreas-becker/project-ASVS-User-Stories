@@ -12,8 +12,8 @@ Verify that there are no periodic credential rotation or password history requir
 
 **Story**:
 As a Security Engineer\
-I want to be sure not to enforce periodic rotation of passwords for users or password history enforcement,
-so that they can set strong and memorable patterns and avoid predictable incremental patterns.
+I want to be sure not to enforce periodic rotation of passwords for users or password history enforcement\
+So that they can set strong and memorable patterns and avoid predictable incremental patterns.
 
 ## Scenario
 

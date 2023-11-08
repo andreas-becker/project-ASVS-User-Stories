@@ -12,8 +12,8 @@ Verify that "paste" functionality, browser password helpers, and external passwo
 
 **Story**:
 As a Security Engineer\
-I want to allow users to use paste functionality to input passwords,
-so that they can use password managers effectively when accessing my system.
+I want to allow users to use paste functionality to input passwords\
+So that they can use password managers effectively when accessing my system.
 
 ## Scenario
 
@@ -44,4 +44,4 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/521.html>
+<https://cwe.mitre.org/data/definitions/521.html>

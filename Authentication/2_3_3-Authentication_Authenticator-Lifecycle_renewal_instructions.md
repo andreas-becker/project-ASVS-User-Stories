@@ -8,7 +8,7 @@ Verify that renewal instructions are sent with sufficient time to renew time bou
 
 ## User Story
 
-**Feature_Name**: send authenticator renewal instructions
+**Feature_Name**: Send authenticator renewal instructions
 
 **Story**:
 As a Security Engineer\
@@ -19,7 +19,7 @@ NOTE: this requirement is somewhat *strange* as ASVS seems to refer to time-boun
 
 ## Scenario
 
-**Scenario_name**: send authenticator renewal notification
+**Scenario_name**: Send authenticator renewal notification
 
 **Gherkin syntax**:
 
@@ -34,7 +34,7 @@ And I check if the authenticator will expire in the next X weeks
 Then I notify the user that his credentials are about to expire and they should change it
 ```
 
-**Scenario_name**: ensure authenticator credentials are valid
+**Scenario_name**: Ensure authenticator credentials are valid
 
 **Gherkin syntax**:
 
@@ -64,6 +64,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/287.html>
+<https://cwe.mitre.org/data/definitions/287.html>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 6.1.4
 

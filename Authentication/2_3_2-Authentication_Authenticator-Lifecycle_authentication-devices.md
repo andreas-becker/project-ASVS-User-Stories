@@ -8,7 +8,7 @@ Verify that enrollment and use of subscriber-provided authentication devices are
 
 ## User Story
 
-**Feature_Name**: enrollment and use of authentication devices (U2F and FIDO)
+**Feature_Name**: Enrollment and use of authentication devices (U2F and FIDO)
 
 **Story**:
 As a Security Engineer\
@@ -17,7 +17,7 @@ So that we enable them
 
 ## Scenario
 
-**Scenario_name**: enroll user-provided authentication device
+**Scenario_name**: Enroll user-provided authentication device
 
 **Gherkin syntax**:
 
@@ -30,7 +30,7 @@ And I provide the ability for the user to enroll an authentication device
 
 `authentication device` in this context relates to U2F or FIDO tokens
 
-**Scenario_name**: authenticate using authentication device
+**Scenario_name**: Authenticate using authentication device
 
 **Gherkin syntax**:
 
@@ -60,6 +60,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/330.html>
+<https://cwe.mitre.org/data/definitions/330.html>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2 / A3
 

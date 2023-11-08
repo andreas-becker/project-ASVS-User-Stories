@@ -12,8 +12,8 @@ Verify that there are no password composition rules limiting the type of charact
 
 **Story**:
 As a Security Engineer\
-I want to unrestrict users from password composition rules limiting the types of characters permitted,
-so that they can set passwords or passphrases which are memorable to them.
+I want to unrestrict users from password composition rules limiting the types of characters permitted\
+So that they can set passwords or passphrases which are memorable to them.
 
 ## Scenario
 

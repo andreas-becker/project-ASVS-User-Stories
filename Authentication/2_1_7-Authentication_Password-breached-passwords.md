@@ -12,8 +12,8 @@ Verify that passwords submitted during account registration, login, and password
 
 **Story**:
 As a Security Engineer\
-I want to verify passwords set by users against known insecure passwords,
-so that they can choose passwords which aren't easily guessed.
+I want to verify passwords set by users against known insecure passwords\
+So that they can choose passwords which aren't easily guessed.
 
 ## Scenario
 

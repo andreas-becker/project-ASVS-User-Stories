@@ -12,8 +12,8 @@ Verify that the user can choose to either temporarily view the entire masked pas
 
 **Story**:
 As a Security Engineer\
-I want to allow users to temporarily view their masked password,
-so that my system is made more accessible to users with different needs.
+I want to allow users to temporarily view their masked password\
+So that my system is made more accessible to users with different needs.
 
 ## Scenario
 
@@ -58,4 +58,4 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/521.html>
+<https://cwe.mitre.org/data/definitions/521.html>

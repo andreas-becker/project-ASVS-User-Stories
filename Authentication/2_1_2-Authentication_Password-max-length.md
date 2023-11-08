@@ -13,8 +13,8 @@ Verify that passwords of at least 64 characters are permitted, and that password
 **Story**:
 As a Security Engineer\
 I want to ensure that a password of at least 64 characters is permitted
-and that more than 128 characters are denied,
-so that I don't constrain the use of secure password managers.
+and that more than 128 characters are denied\
+So that I don't constrain the use of secure password managers.
 
 ## Scenario
 

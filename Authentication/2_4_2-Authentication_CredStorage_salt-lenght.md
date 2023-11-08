@@ -8,17 +8,16 @@ Verify that the salt is at least 32 bits in length and be chosen arbitrarily to 
 
 ## User Story
 
-**Feature_Name**: salt length for password storage
+**Feature_Name**: Salt length for password storage
 
 **Story**:
 As a Security Engineer\
 I want to ensure the salt value used is sufficiently random\
 So that I can minimize salt value collisions among stored hashes
 
-
 ## Scenario
 
-**Scenario_name**: verification of salt length
+**Scenario_name**: Verification of salt length
 
 **Gherkin syntax**:
 
@@ -47,6 +46,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916.html>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
 

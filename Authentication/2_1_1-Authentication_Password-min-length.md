@@ -12,8 +12,8 @@ Verify that user set passwords are at least 12 characters in length (after multi
 
 **Story**:
 As a Security Engineer\
-I want to ensure that a password of at least 12 characters is set,
-so that I reduce exposure of my system against brute force attacks.
+I want to ensure that a password of at least 12 characters is set\
+So that I reduce exposure of my system against brute force attacks.
 
 ## Scenario
 

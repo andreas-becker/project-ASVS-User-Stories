@@ -12,8 +12,8 @@ Verify that a password strength meter is provided to help users set a stronger p
 
 **Story**:
 As a Security Engineer\
-I want to provide feedback to a users password strength when they are setting it,
-so that they can set strong passwords and protect access to their information.
+I want to provide feedback to a users password strength when they are setting it\
+So that they can set strong passwords and protect access to their information.
 
 ## Scenario
 

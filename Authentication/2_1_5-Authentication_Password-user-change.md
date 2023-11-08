@@ -12,8 +12,8 @@ Verify users can change their password.
 
 **Story**:
 As a Security Engineer\
-I want to allow users to change their passwords,
-so that they can manage the lifecycle of their passwords.
+I want to allow users to change their passwords\
+So that they can manage the lifecycle of their passwords.
 
 ## Scenario
 

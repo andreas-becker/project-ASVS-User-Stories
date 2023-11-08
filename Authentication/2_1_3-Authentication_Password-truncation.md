@@ -14,8 +14,8 @@ Verify that password truncation is not performed. However, consecutive multiple 
 As a Security Engineer\
 I want to disallow password truncation
 and allow single space
-and disallow multiple spaces, 
-so that we can increase password complexity by allowing single spaces.
+and disallow multiple spaces\
+So that we can increase password complexity by allowing single spaces.
 
 ## Scenario
 

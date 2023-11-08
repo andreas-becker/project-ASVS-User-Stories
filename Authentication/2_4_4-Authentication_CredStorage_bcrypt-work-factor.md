@@ -8,17 +8,16 @@ Verify that if bcrypt is used, the work factor SHOULD be as large as verificatio
 
 ## User Story
 
-**Feature_Name**: secure implementation of bcrypt
+**Feature_Name**: Secure implementation of bcrypt
 
 **Story**:
 As a Security Engineer\
 I want to ensure that when I use bcrypt I define a large work factor\
 So that I can ensure the stored hashes are securely randomised to decrease chances of collisions and disclosure
 
-
 ## Scenario
 
-**Scenario_name**: verify PBKDF2 implementation
+**Scenario_name**: Verify PBKDF2 implementation
 
 **Gherkin syntax**:
 
@@ -49,6 +48,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916.html>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
 

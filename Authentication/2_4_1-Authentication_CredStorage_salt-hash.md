@@ -8,17 +8,16 @@ Verify that passwords are stored in a form that is resistant to offline attacks.
 
 ## User Story
 
-**Feature_Name**: credential storage using one way hashing functions
+**Feature_Name**: Credential storage using one way hashing functions
 
 **Story**:
 As a Security Engineer\
 I want to store credentials securely using one-way hash functions\
 So that I protect my user credentials from offline attacks
 
-
 ## Scenario
 
-**Scenario_name**: send authenticator renewal notification
+**Scenario_name**: Send authenticator renewal notification
 
 **Gherkin syntax**:
 
@@ -48,6 +47,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916.html>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
 

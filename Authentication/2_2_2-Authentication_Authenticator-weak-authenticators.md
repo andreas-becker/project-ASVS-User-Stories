@@ -42,4 +42,4 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/521.html>
+<https://cwe.mitre.org/data/definitions/521.html>

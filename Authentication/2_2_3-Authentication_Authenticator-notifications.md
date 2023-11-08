@@ -12,8 +12,8 @@ Verify that secure notifications are sent to users after updates to authenticati
 
 **Story**:
 As a Security Engineer\
-I want to use weak authenticators (such as SMS and email) only as secondary verification and transaction approval,
-so that my system is protected with more secure authentication methods.
+I want to use weak authenticators (such as SMS and email) only as secondary verification and transaction approval\
+So that my system is protected with more secure authentication methods.
 
 ## Scenario
 
@@ -46,4 +46,4 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<hhttps://cwe.mitre.org/data/definitions/521.html>
+<https://cwe.mitre.org/data/definitions/521.html>
