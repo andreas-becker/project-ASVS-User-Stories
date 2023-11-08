@@ -4,20 +4,20 @@
 
 ## ASVS Requirement description
 
-Verify that "paste" functionality, browser password helpers, and external password managers are permitted
+Verify that "paste" functionality, browser password helpers, and external password managers are permitted.
 
 ## User Story
 
-**Feature_Name**: enablement of paste functionality for passwords
+**Feature_Name**: Enablement of paste functionality for passwords
 
 **Story**:
 As a Security Engineer\
-I want to allow users to use paste functionality to input passwords
-So that they can use password managers effectively when accessing my system
+I want to allow users to use paste functionality to input passwords,
+so that they can use password managers effectively when accessing my system.
 
 ## Scenario
 
-**Scenario_name**: verify paste functionality is usable
+**Scenario_name**: Verify paste functionality is usable
 
 **Gherkin syntax**:
 

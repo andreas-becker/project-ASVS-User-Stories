@@ -4,20 +4,20 @@
 
 ## ASVS Requirement description
 
-Verify that secure notifications are sent to users after updates to authentication details, such as credential resets, email or address changes, logging in from unknown or risky locations. The use of push notifications - rather than SMS or email - is preferred, but in the absence of push notifications, SMS or email is acceptable as long as no sensitive information is disclosed in the notification
+Verify that secure notifications are sent to users after updates to authentication details, such as credential resets, email or address changes, logging in from unknown or risky locations. The use of push notifications - rather than SMS or email - is preferred, but in the absence of push notifications, SMS or email is acceptable as long as no sensitive information is disclosed in the notification.
 
 ## User Story
 
-**Feature_Name**: user notifications on authentication detail changes
+**Feature_Name**: Limit the use of weak authenticators
 
 **Story**:
 As a Security Engineer\
-I want to send users secure notifications when authentication details change\
-So that they are made aware of any changes to the security of their accounts
+I want to use weak authenticators (such as SMS and email) only as secondary verification and transaction approval,
+so that my system is protected with more secure authentication methods.
 
 ## Scenario
 
-**Scenario_name**: enable secure notification on authentication details change
+**Scenario_name**: Enable secure notification on authentication details change
 
 **Gherkin syntax**:
 

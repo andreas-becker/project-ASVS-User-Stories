@@ -8,16 +8,16 @@ Verify that anti-automation controls are effective at mitigating breached creden
 
 ## User Story
 
-**Feature_Name**: anti-automation controls against authentication requests
+**Feature_Name**: Anti-automation controls against authentication requests
 
 **Story**:
 As a Security Engineer\
-I want to implement anti-automation controls\
-So that my system is protected against successful authentication attacks
+I want to implement anti-automation controls,
+so that my system is protected against successful authentication attacks.
 
 ## Scenario
 
-**Scenario_name**: validate effectiveness of anti-automation capabilities presented to users
+**Scenario_name**: Validate effectiveness of anti-automation capabilities presented to users
 
 **Gherkin syntax**:
 
@@ -30,7 +30,7 @@ Then I validate the results of the measure
 And allow access if the credentials are valid
 ```
 
-**Scenario_name**: validate effectiveness of anti-automation capabilities enforced by the system
+**Scenario_name**: Validate effectiveness of anti-automation capabilities enforced by the system
 
 **Gherkin syntax**:
 

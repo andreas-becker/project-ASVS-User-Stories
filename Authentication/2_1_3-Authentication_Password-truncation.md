@@ -4,7 +4,7 @@
 
 ## ASVS Requirement description
 
-Verify that password truncation is not performed. However, consecutive multiple spaces may be replaced by a single space
+Verify that password truncation is not performed. However, consecutive multiple spaces may be replaced by a single space.
 
 ## User Story
 
@@ -13,9 +13,9 @@ Verify that password truncation is not performed. However, consecutive multiple 
 **Story**:
 As a Security Engineer\
 I want to disallow password truncation
-And allow single space
-And disalllow multiple spaces
-So that we can increase password complexity by allowing single spaces
+and allow single space
+and disallow multiple spaces, 
+so that we can increase password complexity by allowing single spaces.
 
 ## Scenario
 

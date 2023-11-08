@@ -8,16 +8,16 @@ Verify system generated initial passwords or activation codes SHOULD be securely
 
 ## User Story
 
-**Feature_Name**: initial system password for users
+**Feature_Name**: Initial system password for users
 
 **Story**:
 As a Security Engineer\
-I want users to be initially assigned a temporary and secure password\
-So that the initial logon is not compromised
+I want users to be initially assigned a temporary and secure password,
+so that the initial logon is not compromised
 
 ## Scenario
 
-**Scenario_name**: construction of initial system password
+**Scenario_name**: Construction of initial system password
 
 **Gherkin syntax**:
 

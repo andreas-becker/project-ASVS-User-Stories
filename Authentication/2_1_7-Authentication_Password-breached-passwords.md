@@ -4,7 +4,7 @@
 
 ## ASVS Requirement description
 
-Verify that passwords submitted during account registration and password change are checked against a set of breached passwords either locally (such as the top 50,000 to 100,000 most common passwords which match the system's password policy) or using an external API. If using an API a zero knowledge proof or other mechanism should be used to ensure that the plain text password is not sent or used in verifying the breach status of the password. Whenever there is a major third party breach of passwords, lock affected users and force a password change for the user to set a new non-breached password.
+Verify that passwords submitted during account registration, login, and password change are checked against a set of breached passwords either locally (such as the top 1,000 or 10,000 most common passwords which match the system's password policy) or using an external API. If using an API a zero knowledge proof or other mechanism should be used to ensure that the plain text password is not sent or used in verifying the breach status of the password. If the password is breached, the application must require the user to set a new non-breached password.
 
 ## User Story
 
@@ -12,8 +12,8 @@ Verify that passwords submitted during account registration and password change 
 
 **Story**:
 As a Security Engineer\
-I want to verify passwords set by users against known insecure passwords
-So that they can choose passwords which aren't easily guessed
+I want to verify passwords set by users against known insecure passwords,
+so that they can choose passwords which aren't easily guessed.
 
 ## Scenario
 

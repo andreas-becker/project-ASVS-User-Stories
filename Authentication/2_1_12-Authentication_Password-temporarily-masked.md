@@ -12,8 +12,8 @@ Verify that the user can choose to either temporarily view the entire masked pas
 
 **Story**:
 As a Security Engineer\
-I want to allow users to temporarily view their masked password
-So that my system is made more accessible to users with different needs
+I want to allow users to temporarily view their masked password,
+so that my system is made more accessible to users with different needs.
 
 ## Scenario
 

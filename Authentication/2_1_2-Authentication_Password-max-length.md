@@ -4,7 +4,7 @@
 
 ## ASVS Requirement description
 
-Verify that passwords of at least 64 characters are permitted, and that passwords of more than 128 characters are denied
+Verify that passwords of at least 64 characters are permitted, and that passwords of more than 128 characters are denied.
 
 ## User Story
 
@@ -13,8 +13,8 @@ Verify that passwords of at least 64 characters are permitted, and that password
 **Story**:
 As a Security Engineer\
 I want to ensure that a password of at least 64 characters is permitted
-And and that more than 128 characters are denied
-So that I don't constrain the use of secure password managers
+and that more than 128 characters are denied,
+so that I don't constrain the use of secure password managers.
 
 ## Scenario
 

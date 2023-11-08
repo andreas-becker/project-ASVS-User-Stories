@@ -12,8 +12,8 @@ Verify that any printable Unicode character, including language neutral characte
 
 **Story**:
 As a Security Engineer\
-I want to allow any printable Unicode character to be used in passwords
-So that we can support large universe of characters to be used in passwords
+I want to allow any printable Unicode character to be used in passwords,
+so that we can support large universe of characters to be used in passwords.
 
 ## Scenario
 
