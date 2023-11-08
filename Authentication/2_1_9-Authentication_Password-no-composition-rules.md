@@ -48,3 +48,4 @@ TBC
 TBC
 
 ## External links
+<https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
