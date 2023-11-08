@@ -1,6 +1,6 @@
 # ASVS Requirement: V2.5.4
 
-## ASVS:.2.5.4
+## ASVS:2.5.4
 
 ## ASVS Requirement description
 

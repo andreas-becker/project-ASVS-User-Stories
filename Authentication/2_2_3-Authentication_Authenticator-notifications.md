@@ -1,6 +1,6 @@
 # ASVS Requirement: V2.2.3
 
-## ASVS:.2.2.3
+## ASVS:2.2.3
 
 ## ASVS Requirement description
 
