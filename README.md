@@ -36,7 +36,7 @@ Verify that every HTTP response contains a Content-Type header. text/*, /+xml an
 **Story**:\
 As a Security Engineer\
 I want to allow safe character sets only in HTTP responses\
-So that I can prevent obfuscation attacks that could hide malicious input\
+So that I can prevent obfuscation attacks that could hide malicious input
 
 ## Scenario
 **Scenario_name**: Specify allowed character sets
