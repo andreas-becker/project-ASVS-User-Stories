@@ -9,12 +9,12 @@ attacks, and JavaScript expression evaluation.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Protecting Against JSON Attacks
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that the application protects against JSON injection attacks\
+So that we can keep our data safe and secure
 
 ## Scenario
 

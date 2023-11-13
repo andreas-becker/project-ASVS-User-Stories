@@ -11,12 +11,13 @@ viewing everyone's records, or deleting all records.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Protecting Sensitive Data and APIs from IDOR Attacks
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to implement measures that protect sensitive data and APIs from 
+Insecure Direct Object Reference (IDOR) attacks\
+So that unauthorized access, modification, or deletion of records is prevented.
 
 ## Scenario
 

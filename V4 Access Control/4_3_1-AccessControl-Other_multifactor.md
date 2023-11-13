@@ -9,12 +9,12 @@ prevent unauthorized use.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Ensuring Secure Administrative Interfaces
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to implement multi-factor authentication for administrative interfaces\
+So that unauthorized use is prevented
 
 ## Scenario
 

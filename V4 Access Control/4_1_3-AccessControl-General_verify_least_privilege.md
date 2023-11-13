@@ -11,12 +11,13 @@ spoofing and elevation of privilege.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Ensuring Principle of Least Privilege in System
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to implement measures that ensure users can only access resources they are
+authorized for\
+So that the system is protected against unauthorized access and privilege escalation
 
 ## Scenario
 

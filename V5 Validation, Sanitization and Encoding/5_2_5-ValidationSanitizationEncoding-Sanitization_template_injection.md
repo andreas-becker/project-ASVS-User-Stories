@@ -9,12 +9,12 @@ ensuring that any user input being included is sanitized or sandboxed.
 
 ## User Story
 
-**Feature_Name**: Sanitization of user input towards templates
+**Feature_Name**: Protecting Against Template Injection Attacks
 
 **Story**:\
 As a Security Engineer\
-I want to \
-So that I 
+I want to ensure that the application protects against template injection attacks\
+So that we can prevent unauthorized access and potential security breaches
 
 ## Scenario
 

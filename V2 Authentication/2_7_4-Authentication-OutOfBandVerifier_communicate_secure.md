@@ -9,12 +9,13 @@ over a secure independent channel.
 
 ## User Story
 
-**Feature_Name**: 
+**Feature_Name**: Verification of secure communication in out of band authentication
 
 **Story**:
 As a Security Engineer\
-I ...\
-So ...
+I want to ensure that the out of band authenticator and verifier communicates over a 
+secure independent channel\
+So that we can maintain the confidentiality and integrity of our authentication process.
 
 ## Scenario
 

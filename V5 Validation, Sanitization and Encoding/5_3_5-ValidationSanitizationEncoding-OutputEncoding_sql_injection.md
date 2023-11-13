@@ -10,12 +10,13 @@ such as the use of SQL escaping to protect against SQL injection.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Using Safe Encoding Techniques
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that when safer mechanisms are not available, the application
+uses safe encoding techniques to protect against injection attacks\
+So that we can keep our data safe and secure
 
 ## Scenario
 

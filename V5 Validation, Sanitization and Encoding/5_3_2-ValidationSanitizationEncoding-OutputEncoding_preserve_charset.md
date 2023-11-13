@@ -9,12 +9,13 @@ locale, such that any Unicode character point is valid and safely handled.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Preserving User's Character Set and Locale
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that the application correctly handles and displays the 
+user's chosen character set and locale\
+So that we can maintain data integrity and prevent potential security breaches
 
 ## Scenario
 

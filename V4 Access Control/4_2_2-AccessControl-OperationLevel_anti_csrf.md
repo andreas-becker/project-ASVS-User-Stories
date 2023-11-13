@@ -10,12 +10,13 @@ automation or anti-CSRF protects unauthenticated functionality.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Enforcing Strong Anti-CSRF Mechanism and Multi-factor Authentication
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to implement measures that enforce a strong anti-CSRF mechanism to protect both 
+authenticated and unauthenticated functionality\
+So that the application is protected against Cross-Site Request Forgery (CSRF) attacks
 
 ## Scenario
 

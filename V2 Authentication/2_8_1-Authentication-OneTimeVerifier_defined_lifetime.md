@@ -9,12 +9,14 @@ expiring.
 
 ## User Story
 
-**Feature_Name**: 
+**Feature_Name**: Verification of Time-based OTP Lifetime
 
 **Story**:
 As a Security Engineer\
-I ...\
-So ...
+I want to ensure that time-based one-time passwords (OTPs) have a defined
+lifetime before they expire\
+So that we can maintain the security of our authentication process and
+prevent misuse of OTPs.
 
 ## Scenario
 

@@ -10,12 +10,14 @@ XSS resulting from inline scripts, and foreignObject.
 
 ## User Story
 
-**Feature_Name**: Sanitization of svg files
+**Feature_Name**: Safeguarding User-Supplied SVG Content
 
 **Story**:\
 As a Security Engineer\
-I want to validate or sanitize\
-So that I 
+I want to ensure that the application properly handles user-supplied Scalable 
+Vector Graphics (SVG) content\
+So that we can prevent unauthorized changes that could compromise the
+application's security
 
 ## Scenario
 

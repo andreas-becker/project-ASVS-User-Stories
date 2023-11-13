@@ -10,12 +10,13 @@ directory metadata, such as Thumbs.db, .DS_Store, .git or .svn folders.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Preventing Directory Browsing and Disclosure of File Metadata
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to disable directory browsing unless deliberately desired and ensure that
+applications do not allow the discovery or disclosure of file or directory metadata\
+So that sensitive information is not exposed to unauthorized users
 
 ## Scenario
 

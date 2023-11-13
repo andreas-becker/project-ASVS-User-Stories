@@ -9,12 +9,12 @@ controls cannot be manipulated by end users unless specifically authorized.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Protection of User and Data Attributes
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that user and data attributes are secure and cannot be manipulated by end users\
+So that unauthorized access or manipulation of data is prevented
 
 ## Scenario
 

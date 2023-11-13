@@ -9,12 +9,12 @@ layer, especially if client-side access control is present and could be bypassed
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**:  Enforcing Access Control on Trusted Service Layer
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure secure access control enforcement\
+So that unauthorized access can be prevented.
 
 ## Scenario
 

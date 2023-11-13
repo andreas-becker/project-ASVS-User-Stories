@@ -8,12 +8,13 @@ Verify that access controls fail securely including when an exception occurs.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Ensuring Secure Failure of Access Controls
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to implement measures that ensure access controls fail securely,
+including when an exception occurs\
+So that unauthorized access is prevented and the system maintains its integrity.
 
 ## Scenario
 

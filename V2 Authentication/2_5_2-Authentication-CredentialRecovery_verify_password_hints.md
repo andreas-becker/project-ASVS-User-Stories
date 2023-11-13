@@ -13,8 +13,8 @@ called "secret questions") are not present.
 
 **Story**:
 As a Security Engineer\
-I want to ...\
-So ...
+I'm aware that user information might be spread all over the internet\
+So i don't allow secret questions or password hints to be used as a recovery mechanism.
 
 ## Scenario
 

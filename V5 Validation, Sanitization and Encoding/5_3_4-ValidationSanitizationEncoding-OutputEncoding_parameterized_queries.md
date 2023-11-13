@@ -10,12 +10,12 @@ protected from database injection attacks.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Securing Database Queries
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that database queries are protected from injection attacks\
+So that we can keep our data safe and secure
 
 ## Scenario
 

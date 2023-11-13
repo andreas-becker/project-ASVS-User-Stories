@@ -10,12 +10,15 @@ authentication request.
 
 ## User Story
 
-**Feature_Name**: 
+**Feature_Name**: Verification of Out of Band Verifier Authentication Requests
 
 **Story**:
 As a Security Engineer\
-I ...\
-So ...
+I want to ensure that the out of band verifier authentication requests, codes,
+or tokens are only usable once and they are only usable for the original 
+authentication request\
+So that we can prevent unauthorized access and ensure the integrity and security
+of our system.
 
 ## Scenario
 

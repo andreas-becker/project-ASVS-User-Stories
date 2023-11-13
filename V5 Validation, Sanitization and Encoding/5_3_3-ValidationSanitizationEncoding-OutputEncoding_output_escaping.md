@@ -9,12 +9,13 @@ output escaping protects against reflected, stored, and DOM based XSS.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Protecting Against Reflected and Stored XSS Attacks
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that the application uses context-aware output escaping 
+to protect against Cross-Site Scripting (XSS) attacks\
+So that we can keep our website safe from harmful scripts
 
 ## Scenario
 
