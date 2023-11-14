@@ -24,13 +24,15 @@ The repo will be structured with one folder per ASVS requirement, and within it 
 
 The following structure is to be adhered to for the individual files.
 
-## ASVS Requirement: V14.4 HTTP Security Headers Requirements
-## ASVS:14.4.1
+## ASVS Category e.g. "V14.4 HTTP Security Headers"
+
+## ASVS: 14.4.1
 
 ## ASVS Requirement description
 Verify that every HTTP response contains a Content-Type header. text/*, /+xml and application/xml content types should also specify a safe character set (e.g., UTF-8, ISO-8859-1).
 
 ## User Story
+
 **Feature_Name**: HTTP Response content type header specifies safe character set
 
 **Story**:\
@@ -39,15 +41,18 @@ I want to allow safe character sets only in HTTP responses\
 So that I can prevent obfuscation attacks that could hide malicious input
 
 ## Scenario
+
 **Scenario_name**: Specify allowed character sets
 
 **Gherkin syntax**:
+
 ```gherkin
 Given an HTTP response
 And an HTTP Security header
 When specifying allowable character sets
 Then only allow UTF-8 or ISO-8859-1
 ```
+
 ## Validations
 
 **Chef Inspec**
