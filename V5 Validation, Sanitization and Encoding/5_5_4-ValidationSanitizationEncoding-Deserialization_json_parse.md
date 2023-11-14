@@ -10,12 +10,13 @@ JSON.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Safely Parsing JSON
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that JSON.parse is used to parse JSON documents in browsers
+or JavaScript-based backends\
+So that we can prevent unauthorized changes to our data
 
 ## Scenario
 

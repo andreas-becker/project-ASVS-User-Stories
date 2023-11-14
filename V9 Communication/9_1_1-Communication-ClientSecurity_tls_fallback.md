@@ -9,12 +9,12 @@ insecure or unencrypted communications.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Using SSL/TLS
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to use encrypted communications for all clients\
+So that I preventing potential vulnerabilities
 
 ## Scenario
 

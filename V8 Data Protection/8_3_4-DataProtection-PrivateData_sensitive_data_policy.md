@@ -10,12 +10,12 @@ sensitive data.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Sensitive Data Management
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to identify and manage all sensitive data in the application\
+So that we ensuring a secure and standardized approach to sensitive data
 
 ## Scenario
 

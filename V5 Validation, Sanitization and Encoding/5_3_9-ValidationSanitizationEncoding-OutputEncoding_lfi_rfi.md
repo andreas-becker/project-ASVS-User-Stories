@@ -9,12 +9,12 @@ Remote File Inclusion (RFI) attacks.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Guarding Against File Inclusion Attacks
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that the application is protected against LFI or RFI attacks\
+So that we can prevent unauthorized access or changes to our files
 
 ## Scenario
 

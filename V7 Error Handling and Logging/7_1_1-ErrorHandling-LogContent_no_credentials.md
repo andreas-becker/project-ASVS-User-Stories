@@ -9,12 +9,13 @@ Session tokens should only be stored in logs in an irreversible, hashed form.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Safe Logging Practices
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that the application does not log sensitive information\
+So that we can protect user's sensitive information and maintain the security
+of our system.
 
 ## Scenario
 

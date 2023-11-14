@@ -10,12 +10,12 @@ for the use of that data before it is used in any way.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Transparent Data Consent
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to make sure users actively agree before their data is used\
+So that we respect their privacy choices and keeping the process transparent
 
 ## Scenario
 

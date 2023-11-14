@@ -9,12 +9,13 @@ browser DOM, after the client or session is terminated.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Clear session data
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to make sure that when users log out or end their session, their private
+information is removed from their device's storage\
+So that we can keep their data safe and prevent anyone else from getting access
 
 ## Scenario
 

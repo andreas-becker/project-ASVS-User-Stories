@@ -10,12 +10,12 @@ should be the preferred option.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Up-to-Date TLS Protocols
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that only the latest recommended versions of the TLS protocol are enabled\
+So that we enhancing security by adopting up-to-date encryption standards
 
 ## Scenario
 

@@ -9,12 +9,12 @@ data is not cached in modern browsers.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Prevent Data Caching
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure the application sets sufficient anti-caching headers\
+So that sensitive data is not cached in modern browsers
 
 ## Scenario
 

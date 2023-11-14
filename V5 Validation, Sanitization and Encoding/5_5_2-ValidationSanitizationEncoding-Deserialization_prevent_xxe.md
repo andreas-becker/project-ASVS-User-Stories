@@ -11,12 +11,13 @@ attacks.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Protecting Against XML and XPath Injection Attacks
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to  ensure that the application uses the most restrictive settings for XML
+parsers to protect against XML and XPath injection attacks\
+So that we can prevent unauthorized changes to our data
 
 ## Scenario
 

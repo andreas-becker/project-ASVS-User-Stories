@@ -9,12 +9,12 @@ enabled, with the strongest cipher suites set as preferred.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Robust TLS Cipher Suites
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to confirm that our system exclusively enables strong cipher suites\
+So that we fortify our security measures against potential threats
 
 ## Scenario
 

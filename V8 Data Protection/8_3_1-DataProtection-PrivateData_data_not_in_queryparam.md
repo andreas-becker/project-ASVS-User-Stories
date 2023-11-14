@@ -10,12 +10,13 @@ sensitive data.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Secure Data Transmission
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to make sure sensitive data is sent securely to the server, avoiding inclusion
+in query string parameters\
+So that we ensure the protection of user information during communication
 
 ## Scenario
 

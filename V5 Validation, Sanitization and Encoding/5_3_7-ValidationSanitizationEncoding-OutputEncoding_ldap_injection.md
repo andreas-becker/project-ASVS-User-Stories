@@ -10,12 +10,12 @@ implemented.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Guarding Against LDAP Injection Attacks
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that the application is protected against LDAP injection vulnerabilities\
+So that we can keep our user data secure and prevent unauthorized changes
 
 ## Scenario
 

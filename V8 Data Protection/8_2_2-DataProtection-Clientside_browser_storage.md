@@ -9,12 +9,12 @@ sessionStorage, IndexedDB, or cookies) does not contain sensitive data.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Secure User Data Storage
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that user details aren't stored in browser\
+So that we keeping their private details safe
 
 ## Scenario
 

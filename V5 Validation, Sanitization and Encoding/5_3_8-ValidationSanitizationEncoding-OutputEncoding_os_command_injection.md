@@ -10,12 +10,14 @@ command line output encoding.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Guarding Against OS Command Injection Attacks
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that the application is protected against OS command
+injection attacks\
+So that we can maintain the security of our system and prevent
+unauthorized command executions
 
 ## Scenario
 

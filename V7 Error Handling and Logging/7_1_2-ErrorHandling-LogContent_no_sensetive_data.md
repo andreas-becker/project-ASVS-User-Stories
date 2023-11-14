@@ -9,12 +9,13 @@ local privacy laws or relevant security policy.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Compliance with Privacy Laws and Security Policy
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that the application does not log sensitive data\
+So that we can comply with privacy regulations and maintain the security of
+our system.
 
 ## Scenario
 

@@ -10,12 +10,12 @@ can use to investigate.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Error Handling and Investigation Support
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that errors show a generic message with a unique ID\
+So that we can maintain the security of our system and provide support
 
 ## Scenario
 

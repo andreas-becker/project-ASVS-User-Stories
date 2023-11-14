@@ -9,12 +9,12 @@ way that does not enable Padding Oracle attacks.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Handle cryptographic errors
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to let cryptographic modules fail securely and handle errors right\
+So that no Padding Oracle attack is possible
 
 ## Scenario
 

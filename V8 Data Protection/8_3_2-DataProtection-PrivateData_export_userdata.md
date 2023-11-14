@@ -12,8 +12,8 @@ Verify that users have a method to remove or export their data on demand.
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want users to easily remove or export their data\
+So that we give them control over their information
 
 ## Scenario
 

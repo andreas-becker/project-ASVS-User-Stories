@@ -9,12 +9,12 @@ custom code and third-party libraries (such as JSON, XML and YAML parsers).
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Protecting Against Untrusted Data Deserialization
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure that untrusted data deserialization is avoided\
+So that we can prevent unauthorized changes to our data
 
 ## Scenario
 
