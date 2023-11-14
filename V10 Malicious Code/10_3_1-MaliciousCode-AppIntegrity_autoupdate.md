@@ -11,12 +11,13 @@ installing or executing the update.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Secure Auto-Updates
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to verify that if the application has an auto-update feature, updates
+are acquired through secure channels and digitally signed\
+So that we ensuring the integrity and security of the update process
 
 ## Scenario
 

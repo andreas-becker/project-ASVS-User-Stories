@@ -9,12 +9,12 @@ transactions which are correctly enforced on a per user basis.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: User-specific Action Limits
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to verify that the application has proper user limits for business tasks\
+So that it safeguards against potential misuse and enhances security
 
 ## Scenario
 

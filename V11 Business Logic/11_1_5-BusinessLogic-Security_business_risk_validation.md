@@ -10,12 +10,13 @@ similar methodologies.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Business Logic Security Check
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to check that the app has built-in protections, like limits and validations,
+to guard against potential risks or threats\
+So that we ensure the app stays safe and secure for users
 
 ## Scenario
 

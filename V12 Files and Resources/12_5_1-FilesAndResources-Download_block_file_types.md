@@ -12,7 +12,7 @@ editors should be blocked unless required.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Restricted file serving
 
 **Story**:\
 As a Security Engineer\

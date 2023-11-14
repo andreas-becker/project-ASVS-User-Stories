@@ -14,12 +14,13 @@ regularly checked for expiry or change.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Subdomain Security Check
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure the application is safeguarded against subdomain takeovers,
+checking for issues like expired domains or outdated DNS settings\
+So that we will prevent unauthorized changes and enhance overall security
 
 ## Scenario
 

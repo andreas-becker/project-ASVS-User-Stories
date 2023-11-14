@@ -11,12 +11,14 @@ code, or libraries from untrusted sources or the Internet.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Application Integrity Protection
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to verify that the application uses integrity protections, like code
+signing or subresource integrity\
+So that we do not load or execute code from untrusted sources and ensuring
+a secure and controlled environment
 
 ## Scenario
 

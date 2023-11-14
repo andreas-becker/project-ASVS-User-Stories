@@ -10,12 +10,14 @@ uploads or denial of service attacks.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Protection Against Attacks
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to ensure the application has safeguards to stop excessive requests, 
+preventing things like large data theft, unauthorized logic requests, or 
+service disruption\
+So that we keep the application secure and responsive
 
 ## Scenario
 

@@ -10,12 +10,13 @@ too quickly.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Realistic Transaction Processing
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to check that the application processes business logic at a realistic human pace\
+So that all steps are completed in a timely manner, preventing transactions from being 
+submitted too quickly and maintaining the application's integrity
 
 ## Scenario
 

@@ -14,8 +14,9 @@ prevent the disclosure or execution of remote files via Remote File Inclusion
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I make sure the app checks and ignores certain file details from users
+So that it stops the risk of exposing or running remote files, keeping 
+our system safe from potential attacks
 
 ## Scenario
 

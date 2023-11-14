@@ -13,8 +13,8 @@ libraries, to protect against OS command injection.
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to verify untrusted file metadata\
+So that our system gets not compromised
 
 ## Scenario
 

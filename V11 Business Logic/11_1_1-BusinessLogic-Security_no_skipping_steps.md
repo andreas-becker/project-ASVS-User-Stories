@@ -9,12 +9,14 @@ user in sequential step order and without skipping steps.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Sequential Business Logic Check
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to verify that the application processes business logic flows for the same
+user in sequential step order without skipping\
+So that we ensure the correct execution of user interactions and enhances the 
+application's reliability
 
 ## Scenario
 

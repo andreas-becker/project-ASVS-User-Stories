@@ -9,12 +9,12 @@ prevent the disclosure, creation, updating or removal of local files (LFI).
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: File Safety Check
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I ensure the app checks and ignores certain file details from users\
+So that we stop any potential issues, keeping our system secure
 
 ## Scenario
 

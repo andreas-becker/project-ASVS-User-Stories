@@ -11,12 +11,12 @@ and the Content-Disposition header should have a fixed filename.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Guard Against Reflective File Download
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I ensure the app defends against RFD by handling user-submitted filenames carefully\
+So that we include setting specific headers for a safe user experience
 
 ## Scenario
 

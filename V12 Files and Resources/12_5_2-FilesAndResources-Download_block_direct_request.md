@@ -9,12 +9,12 @@ HTML/JavaScript content.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Restrict uploaded files
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want to restrict uploaded files to not be served as executable content\
+So that it is not possible to execute malicious code
 
 ## Scenario
 

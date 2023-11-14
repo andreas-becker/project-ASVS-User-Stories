@@ -9,12 +9,12 @@ scanners to prevent upload and serving of known malicious content.
 
 ## User Story
 
-**Feature_Name**: TBD
+**Feature_Name**: Scan uploaded files for malware
 
 **Story**:\
 As a Security Engineer\
-I want to ...\
-So that I ...
+I want the uploaded files to be scanned by antivirus scanners\
+So that I reduce the risk of cyber attacks using files as vector.
 
 ## Scenario
 

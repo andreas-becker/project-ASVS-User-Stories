@@ -14,7 +14,7 @@ insecure or unencrypted communications.
 **Story**:\
 As a Security Engineer\
 I want to use encrypted communications for all clients\
-So that I preventing potential vulnerabilities
+So that we preventing potential vulnerabilities
 
 ## Scenario
 
