@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that sensitive data is sent to the server in the HTTP message body or
-headers, and that query string parameters from any HTTP verb do not contain
-sensitive data.
+Verify that sensitive data is sent to the server in the HTTP
+message body or headers, and that query string parameters from
+any HTTP verb do not contain sensitive data.
 
 ## User Story
 

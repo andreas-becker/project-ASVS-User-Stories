@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that unstructured data is sanitized to enforce safety measures such as
-allowed characters and length.
+Verify that unstructured data is sanitized to enforce safety
+measures such as allowed characters and length.
 
 ## User Story
 

@@ -4,12 +4,13 @@
 
 ## ASVS Requirement description
 
-Verify that secure notifications are sent to users after updates to
-authentication details, such as credential resets, email or address
-changes, logging in from unknown or risky locations. The use of
-push notifications - rather than SMS or email - is preferred, but in
-the absence of push notifications, SMS or email is acceptable as
-long as no sensitive information is disclosed in the notification.
+Verify that secure notifications are sent to users after updates
+to authentication details, such as credential resets, email or
+address changes, logging in from unknown or risky locations. The
+use of push notifications - rather than SMS or email - is
+preferred, but in the absence of push notifications, SMS or email
+is acceptable as long as no sensitive information is disclosed in
+the notification.
 
 ## User Story
 
@@ -52,4 +53,4 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/521.html>
+<https://cwe.mitre.org/data/definitions/521>

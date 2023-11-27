@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that the application sanitizes user input before passing to mail systems
-to protect against SMTP or IMAP injection.
+Verify that the application sanitizes user input before passing
+to mail systems to protect against SMTP or IMAP injection.
 
 ## User Story
 

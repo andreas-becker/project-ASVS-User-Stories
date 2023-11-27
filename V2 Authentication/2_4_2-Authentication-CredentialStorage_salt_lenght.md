@@ -5,9 +5,9 @@
 ## ASVS Requirement description
 
 Verify that the salt is at least 32 bits in length and be chosen
-arbitrarily to minimize salt value collisions among stored hashes. For
-each credential, a unique salt value and the resulting hash SHALL be
-stored.
+arbitrarily to minimize salt value collisions among stored hashes.
+For each credential, a unique salt value and the resulting hash
+SHALL be stored.
 
 ## User Story
 
@@ -49,6 +49,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
 

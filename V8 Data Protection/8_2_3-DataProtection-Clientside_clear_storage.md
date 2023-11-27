@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that authenticated data is cleared from client storage, such as the
-browser DOM, after the client or session is terminated.
+Verify that authenticated data is cleared from client storage,
+such as the browser DOM, after the client or session is
+terminated.
 
 ## User Story
 

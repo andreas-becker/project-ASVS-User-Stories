@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that enrollment and use of subscriber-provided authentication
-devices are supported, such as a U2F or FIDO tokens.
+Verify that enrollment and use of subscriber-provided
+authentication devices are supported, such as a U2F or FIDO tokens.
 
 ## User Story
 
@@ -61,6 +61,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/330.html>
+<https://cwe.mitre.org/data/definitions/330>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2 / A3
 

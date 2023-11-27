@@ -4,9 +4,10 @@
 
 ## ASVS Requirement description
 
-Verify that the principle of least privilege exists - users should only be able to
-access functions, data files, URLs, controllers, services, and other resources,
-for which they possess specific authorization. This implies protection against
+Verify that the principle of least privilege exists - users 
+should only be able to access functions, data files, URLs, 
+controllers, services, and other resources, for which they 
+possess specific authorization. This implies protection against
 spoofing and elevation of privilege.
 
 ## User Story
@@ -45,4 +46,4 @@ TBC
 
 ## External links
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html> \
+<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html>

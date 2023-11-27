@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify using up to date TLS testing tools that only strong cipher suites are
-enabled, with the strongest cipher suites set as preferred.
+Verify using up to date TLS testing tools that only strong 
+cipher suites are enabled, with the strongest cipher suites set
+as preferred.
 
 ## User Story
 

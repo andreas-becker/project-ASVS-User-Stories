@@ -4,7 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that users have a method to remove or export their data on demand.
+Verify that users have a method to remove or export their data
+on demand.
 
 ## User Story
 

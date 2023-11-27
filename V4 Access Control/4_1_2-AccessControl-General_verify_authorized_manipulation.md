@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that all user and data attributes and policy information used by access
-controls cannot be manipulated by end users unless specifically authorized.
+Verify that all user and data attributes and policy information
+used by access controls cannot be manipulated by end users
+unless specifically authorized.
 
 ## User Story
 
@@ -42,4 +43,4 @@ TBC
 
 ## External links
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html> \
+<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html>

@@ -3,9 +3,9 @@
 ## ASVS: 3.3.1
 
 ## ASVS Requirement description
-Verify that logout and expiration invalidate the session token, such 
-that the back button or a downstream relying party does not resume an
-authenticated session, including across relying parties.
+Verify that logout and expiration invalidate the session token,
+such that the back button or a downstream relying party does not
+resume an authenticated session, including across relying parties.
 
 ## User Story
 
@@ -31,5 +31,5 @@ And I redirect the user to an authentication prompt
 
 ## External links
 
-<https://cwe.mitre.org/data/definitions/613>
+<https://cwe.mitre.org/data/definitions/613> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 7.1

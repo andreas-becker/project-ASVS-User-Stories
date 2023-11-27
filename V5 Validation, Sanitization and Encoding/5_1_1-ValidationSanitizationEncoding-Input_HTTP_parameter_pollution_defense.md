@@ -4,10 +4,10 @@
 
 ## ASVS Requirement description
 
-Verify that the application has defenses against HTTP parameter pollution
-attacks, particularly if the application framework makes no distinction about
-the source of request parameters (GET, POST, cookies, headers, or
-environment variables).
+Verify that the application has defenses against HTTP parameter
+pollution attacks, particularly if the application framework
+makes no distinction about the source of request parameters 
+(GET, POST, cookies, headers, or environment variables).
 
 ## User Story
 

@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that URL redirects and forwards only allow destinations which appear
-on an allow list, or show a warning when redirecting to potentially untrusted
-content.
+Verify that URL redirects and forwards only allow destinations
+which appear  on an allow list, or show a warning when
+redirecting to potentially untrusted content.
 
 ## User Story
 

@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that the application will only process business logic flows for the same
-user in sequential step order and without skipping steps.
+Verify that the application will only process business logic flows
+for the same user in sequential step order and without skipping 
+steps.
 
 ## User Story
 

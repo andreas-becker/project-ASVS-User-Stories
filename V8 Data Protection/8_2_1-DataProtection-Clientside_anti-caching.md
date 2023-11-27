@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify the application sets sufficient anti-caching headers so that sensitive
-data is not cached in modern browsers.
+Verify the application sets sufficient anti-caching headers so
+that sensitive data is not cached in modern browsers.
 
 ## User Story
 

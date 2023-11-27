@@ -5,7 +5,8 @@
 ## ASVS Requirement description
 
 Verify that data stored in browser storage (such as localStorage,
-sessionStorage, IndexedDB, or cookies) does not contain sensitive data.
+sessionStorage, IndexedDB, or cookies) does not contain sensitive
+data.
 
 ## User Story
 

@@ -9,7 +9,7 @@ expiring.
 
 ## User Story
 
-**Feature_Name**: Verification of Time-based OTP Lifetime
+**Feature_Name**: Time-based OTP Lifetime
 
 **Story**:
 As a Security Engineer\
@@ -20,12 +20,14 @@ prevent misuse of OTPs.
 
 ## Scenario
 
-**Scenario_name**: 
+**Scenario_name**: Verifying Time-based OTP Lifetime
 
 **Gherkin syntax**:
 
 ```gherkin
-TBD
+Given our system's OTP generation process
+When a time-based OTP is generated
+Then it should have a defined lifetime before it expires
 ```
 
 ## Validations
@@ -45,6 +47,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/613> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.4.2 / 5.1.5.2
 

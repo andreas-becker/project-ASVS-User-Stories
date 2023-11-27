@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify the application has business logic limits or validation to protect
-against likely business risks or threats, identified using threat modeling or
-similar methodologies.
+Verify the application has business logic limits or validation
+to protect against likely business risks or threats, identified
+using threat modeling or similar methodologies.
 
 ## User Story
 

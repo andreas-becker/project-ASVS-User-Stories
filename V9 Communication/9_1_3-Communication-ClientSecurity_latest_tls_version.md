@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that only the latest recommended versions of the TLS protocol are
-enabled, such as TLS 1.2 and TLS 1.3. The latest version of the TLS protocol
-should be the preferred option.
+Verify that only the latest recommended versions of the TLS
+protocol are enabled, such as TLS 1.2 and TLS 1.3. The latest
+version of the TLS protocol should be the preferred option.
 
 ## User Story
 

@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that the application protects against OS command injection and that
-operating system calls use parameterized OS queries or use contextual
-command line output encoding.
+Verify that the application protects against OS command
+injection and that operating system calls use parameterized OS
+queries or use contextual command line output encoding.
 
 ## User Story
 

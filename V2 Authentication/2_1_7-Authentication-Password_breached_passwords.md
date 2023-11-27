@@ -4,14 +4,14 @@
 
 ## ASVS Requirement description
 
-Verify that passwords submitted during account registration, login,
-and password change are checked against a set of breached
+Verify that passwords submitted during account registration,
+login and password change are checked against a set of breached
 passwords either locally (such as the top 1,000 or 10,000 most
 common passwords which match the system's password policy) or
 using an external API. If using an API a zero knowledge proof or
 other mechanism should be used to ensure that the plain text
-password is not sent or used in verifying the breach status of the
-password. If the password is breached, the application must
+password is not sent or used in verifying the breach status of
+the password. If the password is breached, the application must
 require the user to set a new non-breached password.
 
 ## User Story
@@ -77,5 +77,5 @@ TBC
 <https://cheatsheetseries.owasp.org/cheatsheets/Choosing_and_Using_Security_Questions_Cheat_Sheet.html> \
 <https://cheatsheetseries.owasp.org/cheatsheets/Forgot_Password_Cheat_Sheet.html> \
 <https://cheatsheetseries.owasp.org/cheatsheets/Credential_Stuffing_Prevention_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/521>
+<https://cwe.mitre.org/data/definitions/521> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2

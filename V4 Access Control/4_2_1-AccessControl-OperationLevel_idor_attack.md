@@ -4,10 +4,11 @@
 
 ## ASVS Requirement description
 
-Verify that sensitive data and APIs are protected against Insecure Direct
-Object Reference (IDOR) attacks targeting creation, reading, updating and
-deletion of records, such as creating or updating someone else's record,
-viewing everyone's records, or deleting all records.
+Verify that sensitive data and APIs are protected against
+Insecure Direct Object Reference (IDOR) attacks targeting
+creation, reading, updating and deletion of records, such as
+creating or updating someone else's record, viewing everyone's
+records, or deleting all records.
 
 ## User Story
 
@@ -45,4 +46,4 @@ TBC
 
 ## External links
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html> \
+<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html>

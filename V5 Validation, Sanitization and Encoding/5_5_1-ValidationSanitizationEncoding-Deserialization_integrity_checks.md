@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that serialized objects use integrity checks or are encrypted to prevent
-hostile object creation or data tampering.
+Verify that serialized objects use integrity checks or are
+encrypted to prevent hostile object creation or data tampering.
 
 ## User Story
 

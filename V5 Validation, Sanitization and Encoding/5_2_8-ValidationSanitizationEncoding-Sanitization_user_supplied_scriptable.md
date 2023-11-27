@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that the application sanitizes, disables, or sandboxes user-supplied
-scriptable or expression template language content, such as Markdown, CSS
-or XSL stylesheets, BBCode, or similar.
+Verify that the application sanitizes, disables, or sandboxes
+user-supplied scriptable or expression template language content,
+such as Markdown, CSS or XSL stylesheets, BBCode, or similar.
 
 ## User Story
 

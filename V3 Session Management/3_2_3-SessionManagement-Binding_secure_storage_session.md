@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify the application only stores session tokens in the browser using
-secure methods such as appropriately secured cookies (see section
-3.4) or HTML 5 session storage.
+Verify the application only stores session tokens in the
+browser using secure methods such as appropriately secured
+cookies (see section 3.4) or HTML 5 session storage.
 
 ## User Story
 
@@ -34,5 +34,6 @@ So that the session token is not retained
 
 ## External links
 
-https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html
-<https://cwe.mitre.org/data/definitions/331>
+<https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html> \
+<https://cwe.mitre.org/data/definitions/331> \
+<https://pages.nist.gov/800-63-3/sp800-63b.html> 7.1

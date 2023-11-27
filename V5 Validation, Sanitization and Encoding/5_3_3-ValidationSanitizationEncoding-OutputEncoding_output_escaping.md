@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that context-aware, preferably automated - or at worst, manual -
-output escaping protects against reflected, stored, and DOM based XSS.
+Verify that context-aware, preferably automated - or at worst,
+manual - output escaping protects against reflected, stored, 
+and DOM based XSS.
 
 ## User Story
 

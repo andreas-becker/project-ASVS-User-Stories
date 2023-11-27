@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that when parsing JSON in browsers or JavaScript-based backends,
-JSON.parse is used to parse the JSON document. Do not use eval() to parse
-JSON.
+Verify that when parsing JSON in browsers or JavaScript-based
+backends, JSON.parse is used to parse the JSON document. Do not
+use eval() to parse JSON.
 
 ## User Story
 

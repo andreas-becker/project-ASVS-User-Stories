@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that user set passwords are at least 12 characters in length
-(after multiple spaces are combined).
+Verify that user set passwords are at least 12 characters in
+length (after multiple spaces are combined).
 
 ## User Story
 
@@ -47,5 +47,5 @@ TBC
 <https://cheatsheetseries.owasp.org/cheatsheets/Choosing_and_Using_Security_Questions_Cheat_Sheet.html> \
 <https://cheatsheetseries.owasp.org/cheatsheets/Forgot_Password_Cheat_Sheet.html> \
 <https://cheatsheetseries.owasp.org/cheatsheets/Credential_Stuffing_Prevention_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/521>
+<https://cwe.mitre.org/data/definitions/521> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2

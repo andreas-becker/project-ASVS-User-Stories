@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that the application protects against LDAP injection vulnerabilities, or
-that specific security controls to prevent LDAP injection have been
-implemented.
+Verify that the application protects against LDAP injection
+vulnerabilities, or that specific security controls to prevent
+LDAP injection have been implemented.
 
 ## User Story
 

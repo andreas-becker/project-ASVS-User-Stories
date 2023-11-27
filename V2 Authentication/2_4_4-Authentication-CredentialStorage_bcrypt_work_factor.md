@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that if bcrypt is used, the work factor SHOULD be as large as
-verification server performance will allow, with a minimum of 10.
+Verify that if bcrypt is used, the work factor SHOULD be as large
+as verification server performance will allow, with a minimum of 
+10.
 
 ## User Story
 
@@ -50,6 +51,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
 

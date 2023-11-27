@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that the application protects against template injection attacks by
-ensuring that any user input being included is sanitized or sandboxed.
+Verify that the application protects against template injection
+attacks by ensuring that any user input being included is 
+sanitized or sandboxed.
 
 ## User Story
 

@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that the application enforces access control rules on a trusted service
-layer, especially if client-side access control is present and could be bypassed.
+Verify that the application enforces access control rules on a
+trusted service layer, especially if client-side access control
+is present and could be bypassed.
 
 ## User Story
 
@@ -42,4 +43,4 @@ TBC
 
 ## External links
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html> \
+<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html>

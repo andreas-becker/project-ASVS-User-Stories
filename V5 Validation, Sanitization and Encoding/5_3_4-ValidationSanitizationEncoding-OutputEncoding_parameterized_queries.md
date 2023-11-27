@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that data selection or database queries (e.g. SQL, HQL, ORM, NoSQL)
-use parameterized queries, ORMs, entity frameworks, or are otherwise
-protected from database injection attacks.
+Verify that data selection or database queries (e.g. SQL, HQL,
+ORM, NoSQL) use parameterized queries, ORMs, entity frameworks
+or are otherwise protected from database injection attacks.
 
 ## User Story
 

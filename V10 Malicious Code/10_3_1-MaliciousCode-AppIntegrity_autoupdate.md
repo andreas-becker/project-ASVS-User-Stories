@@ -4,10 +4,10 @@
 
 ## ASVS Requirement description
 
-Verify that if the application has a client or server auto-update feature,
-updates should be obtained over secure channels and digitally signed. The
-update code must validate the digital signature of the update before
-installing or executing the update.
+Verify that if the application has a client or server auto-update
+feature, updates should be obtained over secure channels and 
+digitally signed. The update code must validate the digital 
+signature of the update before installing or executing the update.
 
 ## User Story
 

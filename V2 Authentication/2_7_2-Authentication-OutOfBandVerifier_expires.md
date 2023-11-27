@@ -13,18 +13,20 @@ authentication requests, codes or tokens after 10 minutes.
 
 **Story**:
 As a Security Engineer\
-I set an expiration of f.e. tokens after 10 minutes\
-So that we can maintain the security of our authentication process and
-prevent replay attacks
+I want to ensure that out of band authentication requests, codes or tokens expire after 10 minutes\
+So that we can maintain the security of our authentication process and prevent replay attacks
 
 ## Scenario
 
-**Scenario_name**: 
+**Scenario_name**: Verifying Expiry of Out of Band Authentication
 
 **Gherkin syntax**:
 
 ```gherkin
-TBD
+Given our system's out of band authentication process
+When a user initiates the authentication process
+Then the system should generate a request, code, or token for the user
+And this should expire after 10 minutes
 ```
 
 ## Validations
@@ -44,6 +46,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.3.2
 

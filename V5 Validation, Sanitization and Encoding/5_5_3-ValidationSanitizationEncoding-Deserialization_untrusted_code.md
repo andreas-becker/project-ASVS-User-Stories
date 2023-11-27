@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that deserialization of untrusted data is avoided or is protected in both
-custom code and third-party libraries (such as JSON, XML and YAML parsers).
+Verify that deserialization of untrusted data is avoided or is
+protected in both custom code and third-party libraries (such as
+JSON, XML and YAML parsers).
 
 ## User Story
 

@@ -3,14 +3,10 @@
 ## ASVS: 3.3.2
 
 ## ASVS Requirement description
-If authenticators permit users to remain logged in, verify that re-
-authentication occurs periodically both when actively used or after
-an idle period.
-
-Different assurance levels within ASVS require different parameters:
-Level 1: 30 days
-Level 2: 12 hours or 30 minutes of inactivity, 2FA optional
-Level 3: 12 hours or 15 minutes of inactivity, with 2FA
+If authenticators permit users to remain logged in, verify
+that re-authentication occurs periodically both when actively
+used or after an idle period (12 hours or 15 minutes of
+inactivity, with 2FA).
 
 ## User Story
 

@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that the application protects against JSON injection attacks, JSON eval
-attacks, and JavaScript expression evaluation.
+Verify that the application protects against JSON injection
+attacks, JSON eval attacks, and JavaScript expression evaluation.
 
 ## User Story
 

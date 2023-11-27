@@ -4,9 +4,10 @@
 
 ## ASVS Requirement description
 
-Verify that the application or framework enforces a strong anti-CSRF
-mechanism to protect authenticated functionality, and effective anti-
-automation or anti-CSRF protects unauthenticated functionality.
+Verify that the application or framework enforces a strong
+anti-CSRF mechanism to protect authenticated functionality, and 
+effective anti-automation or anti-CSRF protects unauthenticated
+functionality.
 
 ## User Story
 
@@ -44,4 +45,4 @@ TBC
 
 ## External links
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html> \
+<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html>

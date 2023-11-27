@@ -71,5 +71,5 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/521.html>
+<https://cwe.mitre.org/data/definitions/521> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.2.2 / 5.1.1.2 / 5.1.4.2 / 5.1.5.2

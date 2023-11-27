@@ -31,4 +31,5 @@ And that this entropy is at least 64 bits long
 
 ## External links
 
-<https://cwe.mitre.org/data/definitions/331>
+<https://cwe.mitre.org/data/definitions/331> \
+<https://pages.nist.gov/800-63-3/sp800-63b.html> 7.1

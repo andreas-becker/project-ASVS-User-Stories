@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that the application protects against Local File Inclusion (LFI) or
-Remote File Inclusion (RFI) attacks.
+Verify that the application protects against Local File
+Inclusion (LFI) or Remote File Inclusion (RFI) attacks.
 
 ## User Story
 

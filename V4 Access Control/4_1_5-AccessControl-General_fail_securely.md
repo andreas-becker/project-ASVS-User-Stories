@@ -4,7 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that access controls fail securely including when an exception occurs.
+Verify that access controls fail securely including when an
+exception occurs.
 
 ## User Story
 
@@ -42,4 +43,4 @@ TBC
 
 ## External links
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html> \
+<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html>

@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that all sensitive data created and processed by the application has
-been identified, and ensure that a policy is in place on how to deal with
-sensitive data.
+Verify that all sensitive data created and processed by the
+application has been identified, and ensure that a policy is in
+place on how to deal with sensitive data.
 
 ## User Story
 

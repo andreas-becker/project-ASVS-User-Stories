@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify the application has appropriate limits for specific business actions or
-transactions which are correctly enforced on a per user basis.
+Verify the application has appropriate limits for specific
+business actions or transactions which are correctly enforced
+on a per user basis.
 
 ## User Story
 

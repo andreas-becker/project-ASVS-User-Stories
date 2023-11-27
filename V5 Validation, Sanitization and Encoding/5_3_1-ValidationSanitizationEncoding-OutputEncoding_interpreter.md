@@ -4,11 +4,12 @@
 
 ## ASVS Requirement description
 
-Verify that output encoding is relevant for the interpreter and context
-required. For example, use encoders specifically for HTML values, HTML
-attributes, JavaScript, URL parameters, HTTP headers, SMTP, and others as
-the context requires, especially from untrusted inputs (e.g. names with
-Unicode or apostrophes, such as ねこ or O'Hara).
+Verify that output encoding is relevant for the interpreter and
+context required. For example, use encoders specifically for 
+HTML values, HTML attributes, JavaScript, URL parameters, HTTP
+headers, SMTP, and others as the context requires, especially
+from untrusted inputs (e.g. names with Unicode or apostrophes,
+such as ねこ or O'Hara).
 
 ## User Story
 

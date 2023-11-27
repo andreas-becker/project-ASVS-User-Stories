@@ -32,4 +32,5 @@ And I invalidate any previous active session tokens for that user
 
 ## External links
 
-<https://cwe.mitre.org/data/definitions/384>
+<https://cwe.mitre.org/data/definitions/384> \
+<https://pages.nist.gov/800-63-3/sp800-63b.html> 7.1

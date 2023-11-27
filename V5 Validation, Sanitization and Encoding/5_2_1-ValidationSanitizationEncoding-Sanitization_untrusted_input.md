@@ -4,8 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that all untrusted HTML input from WYSIWYG editors or similar is
-properly sanitized with an HTML sanitizer library or framework feature.
+Verify that all untrusted HTML input from WYSIWYG editors or
+similar is properly sanitized with an HTML sanitizer library or
+framework feature.
 
 ## User Story
 

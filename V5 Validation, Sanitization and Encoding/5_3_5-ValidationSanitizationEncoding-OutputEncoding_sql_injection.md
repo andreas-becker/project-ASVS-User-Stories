@@ -4,9 +4,10 @@
 
 ## ASVS Requirement description
 
-Verify that where parameterized or safer mechanisms are not present,
-context-specific output encoding is used to protect against injection attacks,
-such as the use of SQL escaping to protect against SQL injection.
+Verify that where parameterized or safer mechanisms are not
+present, context-specific output encoding is used to protect
+against injection attacks, such as the use of SQL escaping to
+protect against SQL injection.
 
 ## User Story
 

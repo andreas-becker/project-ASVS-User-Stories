@@ -4,9 +4,10 @@
 
 ## ASVS Requirement description
 
-Verify that the application has anti-automation controls to protect against
-excessive calls such as mass data exfiltration, business logic requests, file
-uploads or denial of service attacks.
+Verify that the application has anti-automation controls to
+protect against excessive calls such as mass data exfiltration,
+business logic requests, file uploads or denial of service
+attacks.
 
 ## User Story
 

@@ -4,7 +4,8 @@
 
 ## ASVS Requirement description
 Verify that cookie-based session tokens utilize the 'SameSite'
-attribute to limit exposure to cross-site request forgery attacks.
+attribute to limit exposure to cross-site request forgery
+attacks.
 
 ## User Story
 
@@ -17,16 +18,19 @@ So that the cookie is not sent on cross-site requests
 
 ## Scenario
 
-**Scenario_name**: TBD
+**Scenario_name**: Verifying 'SameSite' Attribute in Session Cookies
 
 **Gherkin syntax**:
 
 ```gherkin
-TBD
+Given our application's session management system
+When a cookie-based session token is issued
+Then the 'SameSite' attribute of the token should be set
+And it should limit the cookie from being sent on cross-site requests
 ```
 
-# NOTE to add 2 scenarios: overall session time and multi-factor authentication
+_NOTE to add 2 scenarios: overall session time and multi-factor authentication_
 ## External links
 
-<https://cwe.mitre.org/data/definitions/613>
+<https://cwe.mitre.org/data/definitions/613> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 7.1.1

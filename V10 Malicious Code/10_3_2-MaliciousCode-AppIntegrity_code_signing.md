@@ -4,10 +4,11 @@
 
 ## ASVS Requirement description
 
-Verify that the application employs integrity protections, such as code
-signing or subresource integrity. The application must not load or execute
-code from untrusted sources, such as loading includes, modules, plugins,
-code, or libraries from untrusted sources or the Internet.
+Verify that the application employs integrity protections, such
+as code signing or subresource integrity. The application must
+not load or execute code from untrusted sources, such as loading
+includes, modules, plugins, code, or libraries from untrusted
+sources or the Internet.
 
 ## User Story
 

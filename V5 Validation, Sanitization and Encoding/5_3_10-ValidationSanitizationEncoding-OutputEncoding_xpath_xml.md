@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that the application protects against XPath injection or XML injection
-attacks.
+Verify that the application protects against XPath injection or
+XML injection attacks.
 
 ## User Story
 

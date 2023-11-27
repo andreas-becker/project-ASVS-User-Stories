@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify administrative interfaces use appropriate multi-factor authentication to
-prevent unauthorized use.
+Verify administrative interfaces use appropriate multi-factor 
+authentication to prevent unauthorized use.
 
 ## User Story
 
@@ -42,4 +42,4 @@ TBC
 
 ## External links
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html> \
+<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html>

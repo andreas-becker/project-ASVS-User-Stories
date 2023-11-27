@@ -4,8 +4,8 @@
 
 ## ASVS Requirement description
 
-Verify that TLS is used for all client connectivity, and does not fall back to
-insecure or unencrypted communications.
+Verify that TLS is used for all client connectivity, and does not
+fall back to insecure or unencrypted communications.
 
 ## User Story
 

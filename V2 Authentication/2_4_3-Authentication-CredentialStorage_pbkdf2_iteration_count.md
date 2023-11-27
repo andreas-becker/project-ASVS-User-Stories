@@ -4,9 +4,9 @@
 
 ## ASVS Requirement description
 
-Verify that if PBKDF2 is used, the iteration count SHOULD be as large
-as verification server performance will allow, typically at least
-100,000 iterations.
+Verify that if PBKDF2 is used, the iteration count SHOULD be as
+large as verification server performance will allow, typically at
+least 100,000 iterations.
 
 ## User Story
 
@@ -51,6 +51,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
 

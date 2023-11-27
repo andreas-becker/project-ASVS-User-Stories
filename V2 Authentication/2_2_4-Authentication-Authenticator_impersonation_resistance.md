@@ -4,44 +4,30 @@
 
 ## ASVS Requirement description
 
-Verify impersonation resistance against phishing, such as the use
-of multi-factor authentication, cryptographic devices with intent
-(such as connected keys with a push to authenticate), or at
-higher AAL levels, client-side certificates.
+Verify impersonation resistance against phishing, such as the 
+use of multi-factor authentication, cryptographic devices with
+intent (such as connected keys with a push to authenticate),
+or at higher AAL levels, client-side certificates.
 
 ## User Story
 
-**Feature_Name**: impersonation resistance against phishing
+**Feature_Name**: Impersonation Resistance
 
 **Story**:
 As a Security Engineer\
-I want to verify my application's resistance to impersonation attacks\
-So that I have assurance that my users are who they claim to be
+I want to implement measures against phishing\
+So that our system and user data remain secure and trustworthy
 
 ## Scenario
 
-**Scenario_name**: enable multi-factor authentication
+**Scenario_name**: Implementing Multi-Factor Authentication
 
 **Gherkin syntax**:
 
 ```gherkin
-Given the need to authenticate users
-When users login
-Then I authenticate them using username/password pair
-And I authenticate users with a second factor
-```
-
-`second factor` can be OTP (one time password), magic links, authenticator app codes or QR codes
-
-**Scenario_name**: enable client-side TLS authentication
-
-**Gherkin syntax**:
-
-```gherkin
-Given the need to authenticate users
-When users login
-Then I authenticate them using username/password pair
-And I validate a client-side certificate provided by the user
+Given a user attempts to log in
+When they provide their primary credentials
+Then they should be prompted for a second factor of authentication
 ```
 
 ## Validations
@@ -61,5 +47,5 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/308.html>
+<https://cwe.mitre.org/data/definitions/308> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.2.5

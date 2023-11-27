@@ -9,7 +9,7 @@ called "secret questions") are not present.
 
 ## User Story
 
-**Feature_Name**: 
+**Feature_Name**: No Password Hints or Secret Questions
 
 **Story**:
 As a Security Engineer\
@@ -18,12 +18,15 @@ So i don't allow secret questions or password hints to be used as a recovery mec
 
 ## Scenario
 
-**Scenario_name**: 
+**Scenario_name**: Verifying Absence of Password Hints and Secret Questions
 
 **Gherkin syntax**:
 
 ```gherkin
-TBD
+Given our application's authentication system
+When a user attempts to recover their password
+Then the application should not provide password hints or secret questions
+And it should use a more secure method for password recovery
 ```
 
 ## Validations
@@ -43,6 +46,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916> \
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
 

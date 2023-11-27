@@ -4,11 +4,11 @@
 
 ## ASVS Requirement description
 
-Verify that passwords are stored in a form that is resistant to offline
-attacks. Passwords SHALL be salted and hashed using an approved
-one-way key derivation or password hashing function. Key
-derivation and password hashing functions take a password, a salt,
-and a cost factor as inputs when generating a password hash.
+Verify that passwords are stored in a form that is resistant to
+offline attacks. Passwords SHALL be salted and hashed using an
+approved one-way key derivation or password hashing function.
+Key derivation and password hashing functions take a password, a
+salt and a cost factor as inputs when generating a password hash.
 
 ## User Story
 
@@ -51,6 +51,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/916.html>
+<https://cwe.mitre.org/data/definitions/916>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 5.1.1.2
 

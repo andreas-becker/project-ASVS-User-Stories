@@ -4,9 +4,10 @@
 
 ## ASVS Requirement description
 
-Verify that directory browsing is disabled unless deliberately desired.
-Additionally, applications should not allow discovery or disclosure of file or
-directory metadata, such as Thumbs.db, .DS_Store, .git or .svn folders.
+Verify that directory browsing is disabled unless deliberately
+desired. Additionally, applications should not allow discovery
+or disclosure of file or directory metadata, such as Thumbs.db,
+.DS_Store, .git or .svn folders.
 
 ## User Story
 
@@ -44,4 +45,4 @@ TBC
 
 ## External links
 
-<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html> \
+<https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html>

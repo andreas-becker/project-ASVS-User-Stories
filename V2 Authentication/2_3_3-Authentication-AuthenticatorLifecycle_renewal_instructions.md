@@ -65,6 +65,6 @@ TBC
 ## External links
 
 <https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html> \
-<https://cwe.mitre.org/data/definitions/287.html>
+<https://cwe.mitre.org/data/definitions/287>
 <https://pages.nist.gov/800-63-3/sp800-63b.html> 6.1.4
 
